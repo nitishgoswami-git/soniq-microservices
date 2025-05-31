@@ -1,1 +1,1 @@
-export const DBNAME =  "music-microservice";
+export const DB_NAME =  "music-microservice";
